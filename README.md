@@ -13,6 +13,7 @@ You can use this script however you like.
 一个简单的期货自动交易程序代码
 
 两年前写过一个自动交易的程序，运行结果还不错，与大家共享。
+
 介绍：
 1、平台：FXCM MT4。
 2、不需要任何金融知识。
