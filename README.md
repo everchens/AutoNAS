@@ -9,11 +9,11 @@ Known issue: The program could halt when orders openning continuously failed. Th
 
 You can use this script however you like.
 
-# Autonas
-一个简单的期货自动交易程序代码
+# AutoNAS
+一个简单的期货自动交易策略
 
 
-两年前写过一个自动交易的程序，运行结果还不错，与大家共享。
+两年前写过一个自动交易策略，运行结果还不错，与大家共享。
 
 
 介绍：
